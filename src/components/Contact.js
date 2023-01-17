@@ -47,7 +47,7 @@ export default function Contact() {
                 ADDRESS
               </h2>
               <p className="mt-1">
-                200 Hargrave Street <br />
+                515 Portage Avenue <br />
                 Winnipeg, Manitoba
               </p>
             </div>
