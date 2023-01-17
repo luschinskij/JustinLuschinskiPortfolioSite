@@ -4,7 +4,9 @@ The goal of this project was to teach myself how to use the React and Tailwind.c
 
 I also learned how GitHub works, by uploading my own project and importing a bunch of icons and other stuff from there. Considering this is my first time doing all this stuff, I'm really proud of the results so far. It's a good start!
 
-But I'm not finished with this yet! I'll be adding more features and projects as time goes on, so consider this version 1.0.
+But I'm not finished with this yet! I'll be adding more features and projects as time goes on, so consider this version 1.0. 
+
+Link to the website: https://justinluschinskiportfolio.netlify.app/
 
 To-do list:
 1. Add zoom-in feature for skills section.
