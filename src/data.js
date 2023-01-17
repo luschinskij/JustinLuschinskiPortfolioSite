@@ -6,7 +6,7 @@ export const projects = [
     description:
       "Using React.js, Tailwind.css and several other frameworks, I built this website from scratch. It's reactive, so it'll automatically resize everything depending on the device it's being viewed on.",
     image: "./PortfolioGif.gif",
-    link: "https://wonderful-rolypoly-d00c4b.netlify.app",
+    link: "https://justinluschinskiportfolio.netlify.app",
   }
 ];
 export const articles = [
